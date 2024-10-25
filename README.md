@@ -1,4 +1,5 @@
 # OISISI-Test
 Test repozitorija za OISISI
-Hi Milo, this is yours worst enemy!
-Muhahahhaha
+
+this is the BETTER main branch
+go to hell tama
